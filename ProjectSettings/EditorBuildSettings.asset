@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroMenu.unity
+    guid: 9f59ce2a6376c4d619aca98dfeb87eb6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 547b27ca6b81b4eeeb31e8a78dddfeb3
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/InstructionMenu.unity
+    guid: 39c608d8f2bb441e3949a9224691fd21
+  - enabled: 1
+    path: Assets/Scenes/InstructionScene.unity
+    guid: 2529afb0036d04495ab7b84e7b84ed5f
+  - enabled: 1
+    path: Assets/Scenes/PlayerMenu.unity
+    guid: 84478dc46cc9545429ac2bca1270abfc
+  - enabled: 1
+    path: Assets/Scenes/Play0.unity
+    guid: fdff67fce61914bcb8996973b47d2178
+  - enabled: 1
+    path: Assets/Scenes/Play1.unity
+    guid: a21eb46382dd24e61b9968f5068dc777
+  - enabled: 1
+    path: Assets/Scenes/Step1.unity
+    guid: 95445b43d59764b04aa6f48889243182
+  - enabled: 1
+    path: Assets/Scenes/Step2.unity
+    guid: 53018bb8f82724697a21ff0d1864087d
+  - enabled: 1
+    path: Assets/Scenes/Step3.unity
+    guid: 6e779fd27872d4c088f3e822782f8371
+  - enabled: 1
+    path: Assets/Scenes/Step4.unity
+    guid: 0657a89b62759437b8ef6ef865272f2d
+  - enabled: 1
+    path: Assets/Scenes/Step5.unity
+    guid: 6b3a5a70d780e48438746b27cd31ac28
+  - enabled: 1
+    path: Assets/Scenes/Step6.unity
+    guid: f3ed7b937a8bd46faadf3692d8eb90ae
+  - enabled: 1
+    path: Assets/Scenes/Step7.unity
+    guid: 022e3dbaa0fc3458ea5d81e574f425e2
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2abf43ceede664b45b36e796815c2949, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: ab37af0d768334b1181d5d8f71fab821, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5064147af65cc428ea2569ba9c33fd75, type: 2}
